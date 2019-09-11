@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Bunny Care</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Witaj!</string>
+    <string name="nav_header_subtitle">Wybierz jedną z poniższych zakładek.</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile">Profil królika</string>
+    <string name="converter">Konwerter wieku</string>
+    <string name="diet">Dieta</string>
+    <string name="help">Pomoc</string>
+    <string name="share">Udostępnij</string>
+    <string name="health">Książeczka zdrowia</string>
+    <string name="msg_choose_profile">Wybierz profil!</string>
+
+    <string name="first_name">Imię</string>
+    <string name="dateOfBirth">Data urodzenia</string>
+    <string name="human_age_txt">Wiek ludzki</string>
+    <string name="weight">Waga</string>
+    <string name="type">Rasa</string>
+    <string name="sex">Płeć</string>
+    <string name="specChar">Znaki szczególne</string>
+    <string name="add">Dodaj</string>
+
+    <string name="enter_name">Wprowadź imię</string>
+    <string name="enter_weight">Wprowadź wagę</string>
+    <string name="enter_date">Wprowadź datę</string>
+    <string name="default_type">bez rasy</string>
+    <string name="default_specChar">brak</string>
+
+    <string name="cancel_msg">Anulowano</string>
+    <string name="camera_msg">Dodano zdjęcie</string>
+
+    <string-array name="sex">
+        <item>nieznana</item>
+        <item>samiec</item>
+        <item>samica</item>
+    </string-array>
+
+
+    <string name="profile_selected_msg">Wybrano profil</string>
+    <string name="add_action">Uzupełnij dane</string>
+
+    <string name="modify_question">Co chcesz zrobić?</string>
+    <string name="delete_dialog_tag">delete dialog tag</string>
+    <string name="dialog_edit">Edytuj</string>
+    <string name="dialog_delete">Usuń</string>
+    <string name="delete_question">Czy na pewno chcesz to usunąć?</string>
+
+
+    <string name="myFileprovider">justyna.hekert.bunnycare.fileprovider</string>
+    <string name="Yes">tak</string>
+
+    <string name="modify">Modyfikuj</string>
+    <string name="camera_mod_msg">Zmieniono zdjęcie</string>
+    <string name="enter_age">Wpisz wiek królika:</string>
+    <string name="result_age">Wynik:</string>
+    <string name="convert">przelicz</string>
+    <string name="weeks">tygodnie</string>
+    <string name="months">miesiące</string>
+    <string name="years">lata</string>
+    <string name="weekR">tyg</string>
+    <string name="monthR">mies,</string>
+    <string name="yearR">lat,</string>
+    <string name="toolong">"Najstarszy królik na świecie, żył 16 lat. Powinieneś to zgłosić ;)"</string>
+    <string name="WeeksMgs">Oczekiwana wartość z zakresu 0 do 3 tygodni.</string>
+    <string name="MonthsMgs">Oczekiwana wartość z zakresu 0 do 11 miesięcy.</string>
+    <string name="add_first_profile">Dodaj pierwszy profil!</string>
+    <string name="vegetables">Warzywa</string>
+    <string name="fruits">Owoce</string>
+    <string name="herbs">Zioła i inne</string>
+    <string name="advices">Porady</string>
+    <string name="others">Inne</string>
+
+    <string name="name">Nazwa</string>
+    <string name="parts">Część</string>
+    <string name="comments">Uwagi</string>
+    <string name="search">Szukaj :</string>
+
+    <string name="food_title">Jak prawidłowo żywić królika?</string>
+    <string name="food_introduction">Poniżej znajdziesz podstawowe informacje i wskazówki jak zapewnić swojemu królikowi odpowiednią dietę. Należy pamietać, że są to jedynie podpowiedzi i właściwe żywienie należy dostosować indywidualnie do królika.</string>
+    <string name="hay_title">Siano</string>
+    <string name="hay_text">Jest podstawą zdrowego żywienia królika (powinno stanowić 80% diety), dlatego powinno być wysokiej jakości. To źródło niezbędnego w diecie włókna pokarmowego, a także zapewnia poprawne funkcjonowanie układu pokarmowego. Pozawala ścierać zęby, które rosną króliką przez całe życie. Powinno być podawane w paśniku, tak, aby królik po nim nie chodził.</string>
+    <string name="herbs_title">Zioła</string>
+    <string name="herbs_text">Zawierają wiele substancji odżywczych. Można podawać zarówno świeże jak i suszone. Ważna jest różnorodność i odpowiednie dawkowanie. Należy dostosować porcje podawanych ziół i nie przekarmiać nimi królika, tak, aby spożycie siana było nadal duże.</string>
+    <string name="vegetables_title">Warzywa</string>
+    <string name="vegetables_text">To doskonałe uzupełnienie dziennej porcji substancji odżywczych i kalorii. Najlepiej sprawdzają się zielone częśći rośliny natki, liście itp. Podajemy świeże i umyte warzywa osuszone ręcznikiem z nadmiaru wody. Powinny być wprowadzane stopniowo dopiero od 3-4 miesiąca życia.</string>
+    <string name="pellets_title">Granulat</string>
+    <string name="pellets_text">Powinien być traktowany jako uzupełnienie. Przy dobrze zbilansowanej diecie nie musi stanowić jej elementu. Ilość karmy nie powinna przekroczyć 3% jego masy ciała na dobę. Koniecznie trzeba wybierać tylko granulaty bez zbożowe. Jeśli zmienia się rodzaj granulatu, należy przez tydzień lub dwa mieszać je ze sobą, stopniowo zmieniając proporcje.</string>
+    <string name="fruits_title">Owoce</string>
+    <string name="fruits_text">Powinny być podawane okazjonalnie jako smakołyki. Są bogate w cukry, a ich nadmiar może prowadzić do nadwagi albo wręcz otyłości.</string>
+    <string name="water_title">Woda</string>
+    <string name="water_text">Świeża woda musi być stale dostępna i wymieniana, co najmniej raz dziennie. Należy o tym pamiętać zwłaszcza przy używaniu poidełek, gdyż często rozwijają się w nich glony.</string>
+    <string name="harmful_title">Produkty szkodliwe</string>
+    <string name="harmful_text">Nie można podawać produktów zawierających dużo cukru i ziaren takie jak kolby, dropsy i ciasteczka. Wapienka i sól prowadzą do niewydolności nerek. Wszystkie niezbędne witaminy i minerały dostaczane są wraz z sianem i zieleniną.</string>
+    <string name="help_title">Pomoc</string>
+    <string name="help_text">Poniżej znajdziesz objaśnienia dotyczącze funkcji jakie oferuje aplikacja i jak je uruchomić.</string>
+    <string name="profile_instructions">Tu możesz dodawać i przeglądać profile swoich królików.  Dodawanie odbywa się porzez kliknięcie czerwonego przycisku w prawym dolnym rogu ekranu. Zostaniesz przeniesiony do ekranu gdzie należy wypełnić formularz. Możesz dodać zdjęcie klikając przycisk z wizerunkiem aparatu lub z galerii za pomocą drugiego przycisku. Po wybraniu przycisku Dodaj, utworzony profil pojawi się na liście. Możesz na niego kliknąć, aby wyświetlić szczegóły.  Usuwanie lub edycja odbywa się poprzez kliknięcie i przytrzmanie wybranego profilu. Po chwili wyświetli się okno dialogowe, w którym należy wybrać, co chce się zrobić. Usunięcie wymaga potwierdzenia, które wyświetla się u dołu ekranu.</string>
+    <string name="converter_instructions">Ten kalkulator wieku z króliczego na ludzki pomoże Ci dowiedzieć się ile lat miałby twój pupil, gdyby był człowiekiem. W szczegółach profilu królika możesz znaleźć specjalną rubrykę, która jest wynikiem działania konwertera dla danego królika.</string>
+    <string name="advices_instructions">Znajdują się w podkategorii dieta i dotyczą ogólnego żywienia.</string>
+    <string name="diet_rest_title">Warzywa / Owoce / Zioła i inne</string>
+    <string name="diet_rest_instructions">W każdej podkategorii znajdują się przydatne tabelki z nazwą rośliny, częścią, którą możan podać królikowi, a także uwagi, co do częstotliwości podawania itp.</string>
+
+</resources>

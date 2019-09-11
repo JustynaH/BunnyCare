@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/logoblack"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_convert"
+            android:icon="@android:drawable/ic_popup_sync"
+            android:title="@string/converter" />
+    </group>
+
+    <item android:title="@string/diet">
+        <menu>
+            <item
+                android:id="@+id/nav_advices"
+                android:icon="@drawable/bulb"
+                android:title="@string/advices" />
+            <item
+                android:id="@+id/nav_vegetables"
+                android:icon="@drawable/carrot"
+                android:title="@string/vegetables" />
+            <item
+                android:id="@+id/nav_fruits"
+                android:icon="@drawable/apple"
+                android:title="@string/fruits" />
+            <item
+                android:id="@+id/nav_herbs"
+                android:icon="@drawable/herbs"
+                android:title="@string/herbs" />
+        </menu>
+    </item>
+
+    <item android:title="@string/others">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="@string/help" />
+            <!--<item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />-->
+        </menu>
+    </item>
+
+
+
+
+</menu>
